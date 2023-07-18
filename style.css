@@ -28,17 +28,6 @@ header {
   width: 60vw;
   height: 60px;
   margin-top: 15px;
-  /* position: fixed; */
-}
-
-.navigation-link-p {
-  border: solid 0px white;
-  transition: border-bottom 0.1s ease;
-  cursor: pointer;
-}
-
-.navigation-link-p:hover {
-  border-bottom: 3px solid white;
 }
 .navigation-link-btn {
   height: 36px;
@@ -59,7 +48,6 @@ header {
 }
 .logo-bottom {
   display: block;
-  font-weight: bolder;
   color: white;
   text-align: center;
   font-size: 36px;
